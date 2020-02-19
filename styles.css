@@ -1,0 +1,12 @@
+.headercontain{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#quantity{
+    width: 80px;
+}
+
+.red-heart{
+    color: red
+}
